@@ -1,0 +1,7 @@
+E:\CISS222\Ch7_Exercises_Muna_Shabab\74_Muna_Shabab\bin\Debug\74_Muna_Shabab.exe.config
+E:\CISS222\Ch7_Exercises_Muna_Shabab\74_Muna_Shabab\bin\Debug\74_Muna_Shabab.exe
+E:\CISS222\Ch7_Exercises_Muna_Shabab\74_Muna_Shabab\bin\Debug\74_Muna_Shabab.pdb
+E:\CISS222\Ch7_Exercises_Muna_Shabab\74_Muna_Shabab\obj\Debug\74_Muna_Shabab.csprojAssemblyReference.cache
+E:\CISS222\Ch7_Exercises_Muna_Shabab\74_Muna_Shabab\obj\Debug\74_Muna_Shabab.csproj.CoreCompileInputs.cache
+E:\CISS222\Ch7_Exercises_Muna_Shabab\74_Muna_Shabab\obj\Debug\74_Muna_Shabab.exe
+E:\CISS222\Ch7_Exercises_Muna_Shabab\74_Muna_Shabab\obj\Debug\74_Muna_Shabab.pdb
